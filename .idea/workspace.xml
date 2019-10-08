@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abd5a53a-df77-4947-b29c-80242b22d3b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/support_vector_regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decision_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decision_Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Random_Forest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random_Forest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
