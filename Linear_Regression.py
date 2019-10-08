@@ -1,0 +1,1 @@
+# https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noiseimport pandas as pdimport seaborn as snsimport matplotlib.pyplot as pltcolumns = ['Frequency', 'Angle of Attack', 'Chord Length', 'Velocity', 'Displacement', 'Sound Pressure']data = pd.read_csv('airfoil_self_noise.dat', sep='\t', names=columns)print(data.head(20))
